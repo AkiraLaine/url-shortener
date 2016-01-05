@@ -1,0 +1,15 @@
+{
+  "name": "Url Shortener",
+  "version": "0.0.0",
+  "description": "Url Shortener",
+  "main": "server.js",
+  "repository": "",
+  "author": "",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "mongodb": "^2.1.3",
+    "mongojs": "^2.2.2",
+    "socket.io": "~0.9.14"
+  }
+}
